@@ -150,7 +150,8 @@ section{
 .section-container, #profile{
     display: flex;
 }
-
+.about{
+margin-bottom:2rem;}
 /* profile section */
 #profile{
     display: flex;
